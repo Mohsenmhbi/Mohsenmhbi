@@ -29,10 +29,10 @@ I truly enjoy the reading and learning process in these domains and continuously
 
 ### 🧰 مهارت‌ها  
 
-#### Backend & Architecture  
+#### 🧩 Backend & Architecture  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-68217A?style=flat&logo=efcore&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=flat&logo=dotnet&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-4285F4?style=flat)
 ![DDD](https://img.shields.io/badge/DDD-0A66C2?style=flat)
 ![TDD](https://img.shields.io/badge/TDD-FF6F00?style=flat)
@@ -40,30 +40,32 @@ I truly enjoy the reading and learning process in these domains and continuously
 ![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-FF4088?style=flat)
 ![OIDC](https://img.shields.io/badge/OIDC-000000?style=flat)
 
-#### Messaging & Integration  
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apache-kafka)
+#### 📨 Messaging & Integration  
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-9C27B0?style=flat&logo=grpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=swagger&logoColor=white)
 
-#### Data & Storage  
+#### 💾 Data & Storage  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-#### DevOps & Tools  
+#### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
 ### 📊 آمار گیت‌هاب من  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsen-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-dev&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsenmhbi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmhbi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -71,8 +73,9 @@ I truly enjoy the reading and learning process in these domains and continuously
 
 📧 [Email](mailto:mohsen.mhbi@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mohsen-mohebi)  
-💼 [Portfolio / CV]([https://yourportfolio.link](https://www.linkedin.com/in/mohsen-mohebi/overlay/1749064760093/single-media-viewer/?profileId=ACoAADEzrr4BalM8Jq85SawD-rMWnuaWo4E4D0U))
+💼 [Portfolio / CV](https://www.linkedin.com/in/mohsen-mohebi/overlay/1749064760093/single-media-viewer/?profileId=ACoAADEzrr4BalM8Jq85SawD-rMWnuaWo4E4D0U)
 
+---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-dev&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsen-dev&theme=react-dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohsenmhbi&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohsenmhbi&theme=react-dark)
