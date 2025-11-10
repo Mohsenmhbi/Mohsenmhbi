@@ -1,21 +1,24 @@
 # 👋 Hi, I'm **Mohsen Mohebi**
 
-💡 **Software Engineer** specialized in **modular architectures**, **microservices**, and **Domain-Driven Design (DDD)**.  
-🎯 Passionate about building **scalable**, **maintainable**, and **testable** backend systems.  
-📍 Based in **Iran**  
+💡 **.NET Software Engineer** specializing in **modular architectures**, **microservices**, and **Domain-Driven Design (DDD)**.  
+🎯 Passionate about building **scalable**, **maintainable**, and **testable** backend systems with **C#** and **.NET**.  
+📍 Based in **Iran**
+
+---
+
+## 🧭 Professional Summary  
+
+As a **Backend Software Engineer**, I focus on building **domain-centric**, **event-driven**, and **microservice-based** systems using **.NET**, **Kafka**, and **modern architectural patterns**.  
+My expertise includes **CQRS**, **Event Sourcing**, and **Clean Architecture**, following principles like **SOLID**, **TDD**, and **BDD**.  
+I enjoy transforming complex business domains into **clean, testable**, and **scalable software solutions**.
+
+🚀 Always learning and improving — I believe clean code and strong domain knowledge are the foundation of sustainable software.
 
 ---
 
 ## 👨‍💻 Tech Stack  
+
 `C# | .NET | EF Core | CQRS | DDD | BDD | TDD | Event Sourcing | OIDC | OOP | Kafka | RabbitMQ | MySQL | MongoDB | Redis | Elasticsearch | Docker | Kubernetes`
-
----
-
-## 🧠 About Me  
-
-I’m deeply interested in **Domain-Driven Design (DDD)**, and my main focus is designing **clean, modular, and event-driven systems** using **.NET**, **Kafka**, and **modern architectural patterns**.  
-I believe in **Test-Driven (TDD)** and **Behavior-Driven Development (BDD)** as key principles for sustainable software.  
-My goal is to deliver code that is **clear, testable, and resilient** — and to continuously refine my craft as an engineer.
 
 ---
 
@@ -33,7 +36,7 @@ My goal is to deliver code that is **clear, testable, and resilient** — and to
 ![OIDC](https://img.shields.io/badge/OIDC-000000?style=flat)
 
 ### 📨 Messaging & Integration  
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-9C27B0?style=flat&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=swagger&logoColor=white)
@@ -54,7 +57,7 @@ My goal is to deliver code that is **clear, testable, and resilient** — and to
 
 ---
 
-## 📈 GitHub Insights  
+## 📊 GitHub Insights  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsenmhbi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmhbi&layout=compact&theme=tokyonight)
@@ -69,13 +72,32 @@ My goal is to deliver code that is **clear, testable, and resilient** — and to
 
 ---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohsenmhbi&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohsenmhbi&theme=tokyonight)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohsenmhbi&theme=react-dark)
 
 ---
 
 ## 📝 درباره‌ی من (فارسی)
 
-من **محسن محبی** هستم؛ توسعه‌دهنده‌ی نرم‌افزار با تمرکز بر طراحی دامنه‌محور (**DDD**) و ساخت سیستم‌های **مقیاس‌پذیر، تمیز و رویدادمحور**.  
-به **طراحی معماری‌های میکروسرویسی** و استفاده از الگوهایی مثل **CQRS** و **Event Sourcing** علاقه‌مندم.  
-همیشه تلاش می‌کنم کدم قابل‌تست، خوانا و قابل‌توسعه باشه و از یادگیری فناوری‌های جدید در دات‌نت و اکوسیستم‌های اطرافش لذت می‌برم.
+من **محسن محبی** هستم — توسعه‌دهنده‌ی نرم‌افزار با تمرکز بر **طراحی دامنه‌محور (DDD)**، **توسعه‌ی میکروسرویس‌ها** و **معماری‌های رویدادمحور (Event-Driven)**.  
+در توسعه‌ی بک‌اند با **.NET** و تکنولوژی‌هایی مثل **Kafka**, **CQRS**, **Event Sourcing**, **Redis** و **Elasticsearch** کار می‌کنم.  
+به اصول **SOLID**، تست‌نویسی با **TDD/BDD** و طراحی **Clean Architecture** باور دارم.  
+هدفم ساخت سیستم‌هایی **پایدار، مقیاس‌پذیر و تمیز** است که در طول زمان رشد کنند، نه فرسوده شوند.
+
+---
+
+## 🔍 SEO Optimized Keywords  
+
+> `.NET Software Engineer`, `C# Developer`, `Backend Engineer`, `Microservices`,  
+> `Domain-Driven Design (DDD)`, `Clean Architecture`, `CQRS`, `TDD`, `Kafka`,  
+> `Event Sourcing`, `Scalable Backend Systems`, `Enterprise Software Development`.
+
+---
+
+## 📈 SEO Highlights (for GitHub & Google)
+
+- ✅ Includes natural occurrences of technical keywords throughout.  
+- ✅ Semantic headers (H1 → H3) to improve indexing.  
+- ✅ External links with descriptive anchor text.  
+- ✅ Profile tracking configured for: **Mohsenmhbi**  
+- ✅ English + Persian content increases global discoverability.  
