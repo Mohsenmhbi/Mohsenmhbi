@@ -72,3 +72,7 @@ I truly enjoy the reading and learning process in these domains and continuously
 📧 [Email](mailto:youremail@example.com)  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 💼 [Portfolio / CV](https://yourportfolio.link)
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-dev&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsen-dev&theme=react-dark)
