@@ -1,8 +1,12 @@
-# 👋 Hi, I'm **Mohsen Mohebi**
+# 👋 Hi there, I'm **Mohsen Mohebi**
 
-💡 **.NET Software Engineer** specialized in **Domain-Driven Design (DDD)**, **Microservices**, and **Clean Architecture**.  
-🎯 Focused on building **scalable**, **maintainable**, and **testable** backend systems.  
-📍 Based in **Iran**
+💻 **.NET Software Engineer** | Passionate about **Clean Architecture**, **DDD**, and **Microservices**
+
+🎥 I share my thoughts on **YouTube** and other social platforms.  
+🌱 Currently diving deep into **Microservices** and **Scalable System Design**.  
+👯 Open to collaborating on **open-source projects**.  
+💬 Ask me about: `.NET Core`, `Clean Architecture`, `CQRS`, `DDD`, `Microservices`  
+⚡ Fun fact: I’m a robot without any recreation :)
 
 ---
 
