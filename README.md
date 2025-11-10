@@ -69,9 +69,9 @@ I truly enjoy the reading and learning process in these domains and continuously
 
 ### 🌐 راه‌های ارتباطی  
 
-📧 [Email](mailto:youremail@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💼 [Portfolio / CV](https://yourportfolio.link)
+📧 [Email](mailto:mohsen.mhbi@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/mohsen-mohebi)  
+💼 [Portfolio / CV]([https://yourportfolio.link](https://www.linkedin.com/in/mohsen-mohebi/overlay/1749064760093/single-media-viewer/?profileId=ACoAADEzrr4BalM8Jq85SawD-rMWnuaWo4E4D0U))
 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-dev&theme=tokyonight)
