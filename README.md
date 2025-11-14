@@ -5,9 +5,7 @@
 🎥 I share my thoughts on **YouTube** and other social platforms.  
 🌱 Currently diving deep into **Microservices** and **Scalable System Design**.  
 👯 Open to collaborating on **open-source projects**.  
-💬 Ask me about: `.NET Core`, `Clean Architecture`, `CQRS`, `DDD`, `Microservices`  
-⚡ Fun fact: I’m a robot without any recreation :)
-
+💬 Ask me about: `.NET Core`, `Clean Architecture`, `CQRS`, `DDD`, `Microservices` 
 ---
 
 ## 👨‍💻 Tech Stack  
