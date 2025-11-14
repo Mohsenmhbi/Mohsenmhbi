@@ -64,17 +64,7 @@ I believe in writing code that’s **simple, testable, and future-proof**.
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohsenmhbi&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohsenmhbi&theme=react-dark)
-
 ---
-
-## 📝 فارسی
-
-من **محسن محبی** هستم — توسعه‌دهنده‌ی نرم‌افزار با تمرکز بر **طراحی دامنه‌محور (DDD)**، **میکروسرویس‌ها** و **معماری‌های تمیز**.  
-علاقه‌مند به طراحی سیستم‌های **رویدادمحور، مقیاس‌پذیر و تست‌پذیر** با استفاده از **.NET**، **Kafka** و **CQRS** هستم.
-
----
-
-## 🔍 Keywords  
 
 > `.NET`, `C#`, `Backend Engineer`, `DDD`, `Microservices`, `CQRS`, `Kafka`, `Event Sourcing`, `Clean Architecture`, `TDD`
 
