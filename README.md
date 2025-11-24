@@ -2,7 +2,6 @@
 
 💻 **.NET Software Engineer** | Passionate about **Clean Architecture**, **DDD**, and **Microservices**
 
-🎥 I share my thoughts on **YouTube** and other social platforms.  
 🌱 Currently diving deep into **Microservices** and **Scalable System Design**.  
 👯 Open to collaborating on **open-source projects**.  
 💬 Ask me about: `.NET Core`, `Clean Architecture`, `CQRS`, `DDD`, `Microservices` 
